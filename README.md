@@ -1,4 +1,4 @@
-# Neovim Configuration
+# Nvim Configs
 
 This is a basic Neovim configuration with essential settings, keybindings, and plugin management using Packer.
 
